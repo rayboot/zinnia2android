@@ -7,19 +7,29 @@ zinnia2android
 2.解压 & make & install zinnia
 
    % tar zxfv zinnia-X.X.tar.gz
+   
    % cd zinnia-X.X
+   
    % ./configure
+   
    % make
+   
    % su
+   
    # make install
  
 3.解压 & make & install Zinnia-Tomoe
 
   % tar zxfv zinnia-tomoe-XXXX.tar.gz
+  
   % zinnia-tomoe-XXXX
+  
   % ./configure
+  
   % make
+  
   % su
+  
   # make install
   
 （该步骤生成 handwriting-zh_CN.model）
